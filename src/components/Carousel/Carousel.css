@@ -1,0 +1,15 @@
+.carousel_images {
+    width: 90%;
+    height: auto;
+}
+
+.carousel{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.carousel_arrow{
+    cursor: pointer;
+}

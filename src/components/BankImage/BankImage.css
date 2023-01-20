@@ -1,0 +1,9 @@
+.bankImage{
+    margin-top: 20px;
+    background-color: white;
+}
+
+.bankImage >img{
+    width: 90%;
+    padding: 20px 5%;
+}

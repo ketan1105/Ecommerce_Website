@@ -1,0 +1,9 @@
+.product_Cards{
+    margin: 20px 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    /*justify-content: space-evenly;*/
+    width : 100%;
+    height : 650px;
+    align-items: center;
+}

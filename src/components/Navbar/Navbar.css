@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    background-color: #2874f0;
+    color: white;
+    justify-content: space-between;
+    padding: 10px 7%;
+    align-items: center;
+    position: fixed;
+    width: 90%;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.navbar_left{
+    display: flex;
+    align-items: center;
+}
+
+.navbar_left > p{
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.navbar_left_input{
+    width: 550px;
+    margin-left: 10px;
+    height: 30px;
+}
+
